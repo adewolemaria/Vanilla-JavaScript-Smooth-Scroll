@@ -1,0 +1,45 @@
+* {
+  margin: 0%;
+
+}
+
+.box1 {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(to top, #c4c5c7 0%, #dcdddf 52%, #ebebeb 100%);
+}
+
+.nav-list {
+  height: 10vh;
+  display: flex;
+  width: 50%;
+  justify-content: space-around;
+  align-items: center;
+  margin-left: auto;
+  list-style: none;
+}
+
+.nav_links {
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+}
+
+.box2 {
+  height: 100vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.section1, .section2 {
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 20px;
+}
+
+.myImg {
+height: 400px;
+}
